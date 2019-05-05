@@ -47,7 +47,17 @@ Possibly, but I don't think so. Over-fitting means that a model cannot be extrap
 
 ## What did you learn?
 
-COMING SOON 
+I learned a couple of important topics
 
-
-
+- IOT and its applications 
+- Arduino prototyping 
+- Machine Learning 
+	- Curve fitting 
+	- Reinforcement Learning 
+	- Classification 
+	- Data sets
+	- Training 
+- Using Jupyter notebooks 
+- Matplotlib and numpy 
+- Presentation skills 
+- Working with total strangers and still getting it done 
