@@ -28,8 +28,15 @@ Here are some pictures of our model...
 
 ![Image](https://github.com/trashidi98/NewHacks-CS-Grand-Order/blob/master/Side%20View.png)
 
+## The Goal for the final Product 
 
+__Our final product was supposed to be an IOT kit that residents could buy. The kit contains sensors and data collecting instruments that are connected to a microcontroller 
+within the house. Machine learning generally takes a lot of computational power. We would include a processing unit like a _Rasberry Pi_ that processes the data centrally 
+so the data is not leaving the premises and has a lower chance of being intercepted. Or using a platform like NVIDIA Cloud ML we could send the data to NVIDIA servers to 
+be processed at high speeds.__ 
 
+__We were also planning other features like emergency alerts, if the resident isn't home and isn't expecting visitors the resident may get a text from the IOT system 
+notifying them about a potential robbery__ 
  
 
 ## How does your solution work
