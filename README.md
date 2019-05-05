@@ -15,7 +15,22 @@ Our solution was two-fold. First, I, being the Computer Engineering student used
 in a home IOT kit.  It mimicked a sensor that would open the blinds when a person walked in and then closed them as the person walked out. 
 
 Then we brainstormed how IOT sensors and data could be used in tandem with machine learning to create smarter IOT solutions. The use-case we chose to present was predicting 
-wake up times. This would allow IOT devices to change lighting, open blinds and whatnot according to resident's wake-up times. 
+wake up times. This would allow IOT devices to change lighting, open blinds and whatnot according to resident's wake-up times.
+
+Here are some pictures of our model...
+
+---
+
+![Image](https://github.com/trashidi98/NewHacks-CS-Grand-Order/blob/master/Front%20View.png)
+
+
+---
+
+![Image](https://github.com/trashidi98/NewHacks-CS-Grand-Order/blob/master/Side%20View.png)
+
+
+
+ 
 
 ## How does your solution work
 
