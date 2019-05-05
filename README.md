@@ -46,7 +46,7 @@ Well the model was built with an Arduino UNO board and some sensors and a servo 
 The machine learning model was a little bit harder to do. We created a set of data based on one of our own daily wake-up times. The result we noticed was cyclical, and 
 therefor could be modelled by a sinusoidal model. 
 
-_Could this be an issue of over-fitting?_
+___Could this be an issue of over-fitting?___
 
 Possibly, but I don't think so. Over-fitting means that a model cannot be extrapolated to fit other sets of data. Fortunately _most_ people have cyclical sleep patterns 
 (minus my brother maybe) and therefor I would say it works! 
